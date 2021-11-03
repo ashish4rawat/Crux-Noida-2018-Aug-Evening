@@ -9,6 +9,7 @@ public class Main {
 
         // create arr of size 3 with custom values
         int[] data = {12, 43, 345};
+        int df = 3;
 
 
 //        System.out.println(data[0]);
